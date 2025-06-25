@@ -1,0 +1,14 @@
+{
+    "bubble_sort.bubble_sort": [
+      {"input": [[5, 2, 9]], "expected": [2, 5, 9]}
+    ],
+    "dijkstra.dijkstra": [
+      {"input": [{"A": {"B": 1, "C": 4}, "B": {"C": 2}, "C": {}}, "A"], "expected": {"A": 0, "B": 1, "C": 3}}
+    ],
+    "fibonacci.fibonacci": [
+      {"input": [7], "expected": 13}
+    ]
+  
+
+  }
+  

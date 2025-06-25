@@ -1,0 +1,19 @@
+{
+    "bubble_sort.py": {
+      "bubble_sort": [
+        [[5, 3, 8, 2]]
+      ]
+    },
+    "dijkstra.py": {
+  "dijkstra": [
+    [{"0": {"1": 4}, "1": {"0": 4, "2": 2}, "2": {"1": 2}}, "0"]
+  ]
+}
+,
+    "fibonacci.py": {
+      "fibonacci": [
+        [20]
+      ]
+    }
+  }
+  
